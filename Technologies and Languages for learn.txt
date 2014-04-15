@@ -1,0 +1,13 @@
+#Technologies and Languages for learn.
+
+1. C#, WPF, WCF, EntityFramework, SQL
+
+2. F#, F#lib, algorithms
+
+3. Python, pylibrary
+
+4. JS, node.js
+
+5. HTML5
+
+6. Patterns(GoF), MVVM, MVC
