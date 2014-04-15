@@ -1,0 +1,279 @@
+=Algorithms
+ 
+  + Дискретная математика для программистов         Г. Хаггард
+ 
+  + Concrete Mathematics: A Foundation for Computer Science  Ronald L. Graham
+ 
+  + Алгоритмы. Построение и анализ   Томас Кормен
+ 
+  + Искусство программирования. Том 1. Основные алгоритмы   Дональд Кнут
+ 
+ 
+  + The Algorithm Design Manual Steven S Skiena
+ 
+  + Introduction to Distributed Algorithms Gerard Tel
+ 
+  + Clever Algorithms: Nature-Inspired Programming Recipes Jason Brownlee
+ 
+=Computer Science
+ 
+  + SICP  Harold Abelson
+ 
+  + HtDP Matthias Felleisen
+ 
+  + TaPL Benjamin C. Pierce  
+ 
+  + Database Systems: A Practical Approach to Design, Implementation and Managemen Thomas M. Connolly
+ 
+  + Компьютерные сети. Принципы, технологии, протоколы       Олифер В.Г.
+ 
+  + Компьютерные сети   Э. Таненбаум
+ 
+  + Сетевые операционные системы      Н. А. Олифер
+ 
+  + Архитектура компьютера Э. Таненбаум
+ 
+  + Операционные системы: разработка и реализация А. Вудхалл
+ 
+  + Современные операционные системы Э. Таненбаум
+ 
+  + Операционные системы. Основы и принципы Х. М. Дейтел
+ 
+ 
+=Language Implementation
+ 
+ 
+  + Language Implementation Patterns: Create Your Own Domain-Specific and General Programming Languages Terence Parr
+ 
+  + Compilers: Principles, Techniques, and Tools  Alfred V. Aho
+ 
+  + Modern Compiler Implementation in C   Andrew W. Appel
+ 
+  + Modern Compiler Implementation in ML  Andrew W. Appel
+ 
+  + Modern Compiler Implementation in Java  Andrew W. Appel  
+ 
+ 
+ 
+ 
+=Development
+ 
+  + Peopleware: Productive Projects and Teams (Second Edition)  Tom DeMarcor
+ 
+  + Программист-прагматик. Путь от подмастерья к мастеру   Э. Хант
+ 
+  + Object-Oriented Analysis and Design with Applications  Grady Booch
+ 
+  + Object Solutions: Managing the Object-Oriented Project   Grady Booch
+ 
+  + Приемы объектно-ориентированного проектирования. Паттерны проектирования   Гамма Э.
+ 
+  + Совершенный код   С. Макконнелл
+ 
+  + Patterns of Enterprise Application Architecture   Martin Fowler  
+ 
+  + Refactoring: Improving the Design of Existing Code   Martin Fowler  
+ 
+  + Test Driven Development: By Example    Kent Beck  
+ 
+ 
+ 
+=Programming Languages
+ 
+==Scala
+ 
+   
+    + Programming in Scala   Martin Odersky
+   
+    + Scala in Depth   Joshua D. Suereth  
+ 
+==Lisp
+ 
+    + Let Over Lambda  Doug Hoyte  
+   
+    + Practical Common Lisp   Peter Seibel  
+ 
+ 
+==Scheme
+ 
+    + The Little Schemer   Daniel P. Friedman  
+   
+    + The Reasoned Schemer  Daniel P. Friedman  
+   
+    + The Seasoned Schemer   Daniel P. Friedman  
+   
+    + Teach Yourself Scheme in Fixnum Days  Dorai Sitaram    
+ 
+==Clojure
+   
+    + Clojure in Action  Amit Rathore  
+   
+    + Clojure Programming    Chas Emerick  
+   
+    + ClojureScript: Up and Running  Stuart Sierra      
+         
+ 
+==JavaScript
+ 
+    + JavaScript: The Good Parts  Douglas Crockford    
+   
+    + JavaScript Patterns  Stoyan Stefanov  
+   
+    + JavaScript: The Definitive Guide  David Flanagan  
+   
+ 
+==PHP
+ 
+    + PHP Cookbook  Adam Trachtenberg  
+ 
+    + Профессиональное программирование на PHP  Джордж Шлосснейгл  
+     
+       
+    + PHP. Объекты, шаблоны и методики программирования  Мэтт Зандстра  
+ 
+ 
+==Erlang
+ 
+    + Programming Erlang   Joe Armstrong  
+   
+    + Learn You Some Erlang for Great Good!  Fred Hebert  
+   
+    + ERLANG Programming   Francesco Cesarini    
+ 
+ 
+==Ruby
+ 
+    + Poignant Guide to Ruby   why the lucky stiff  
+   
+    + Eloquent Ruby   Russ Olsen  
+   
+    + Metaprogramming Ruby  Paolo Perrotta  
+   
+    + The Rails 3 Way  Obie Fernandez    
+   
+ 
+==Python
+ 
+    + Programming in Python 3   Mark Summerfield  
+   
+    + Dive Into Python 3   Mark Pilgrim    
+   
+    + Learning Python   Mark Lutz    
+   
+    +  Python Programming   Michael Dawson  
+   
+    + Programming Python    Mark Lutz  
+   
+    + The Definitive Guide to Django    Adrian Holovaty  
+ 
+ 
+==C
+ 
+    + C: A Reference Manual   Samuel P. Harbison  
+     
+    + C Programming Language   Brian W. Kernighan    
+     
+    + Expert C Programming    Peter van der Linden  
+ 
+ 
+==ActionScript
+ 
+    + Essential ActionScript 3.0   Colin Moock    
+     
+    + Essential ActionScript 2.0    Colin Moock  
+ 
+ 
+==Haskell
+ 
+    + Real World Haskell   Bryan O'Sullivan  
+   
+    + Learn You a Haskell for Great Good!    Miran Lipovaca  
+ 
+ 
+==Perl
+ 
+    + Modern Perl    chromatic  
+ 
+ 
+==SQL
+ 
+    + SQL Pocket Guide   Jonathan Gennick    
+   
+    + SQL Cookbook    Anthony Molinaro  
+   
+    + Learning SQL   Alan Beaulieu  
+   
+    + Understanding SQL    Martin Gruber  
+ 
+ 
+==C#  
+ 
+    + C# 5.0 in a Nutshell   Joseph Albahari  
+   
+    + CLR via C#   Jeffrey Richter  
+   
+    + C# 4.0 Unleashed  Bart De Smet    
+   
+    + C# in Depth    Jon Skeet  
+   
+    + Linq Pocket Reference    Joseph Albahari  
+   
+    + Полный справочник по C#  Герберт Шилдт  
+     
+     
+==ASM
+ 
+    + The Art of Assembly Language   Randall Hyde  
+   
+    + Ассемблер на примерах.    Рудольф Марек  
+     
+   
+    + Assembler.  Юров В.И.  
+     
+   
+    + Ассемблер это просто!   Калашников О.
+     
+ 
+==C++
+         
+   + C++ без страха  Брайан Оверленд  
+   
+   + Effective C++  Scott Meyers  
+   
+   + Объектно-ориентированное программирование в С++   Р. Лафоре  
+     
+   + Дизайн и эволюция C++  Бьёрн Страуструп  
+     
+   + Exceptional C++  Herb Sutter    
+   
+   + C++ Coding Standards  Herb Sutter  
+   
+   + C++ Templates  David Vandevoorde        
+ 
+ 
+==Java
+       
+   + Java 2. Том 1. Основы  Кей Хорстманн  
+     
+   + Java 2. Том 2. Тонкости программирования   Кей Хорстманн
+     
+   + Java The Complete Reference  Herbert Schildt
+   
+   + Programming Concurrency on the JVM   Venkat Subramaniam  
+   
+   + Java Concurrency in Practice  Brian Goetz  
+   
+   + Effective Java   Joshua Bloch    
+   
+   + Thinking in Java   Bruce Eckel  
+   
+   + Язык программирования Java  Кен Арнолд  
+     
+ 
+ 
+ 
+==Other
+ 
+  + The Art of UNIX Programming (The Addison-Wesley Professional Computng Series)   Eric S. Raymond    
+ 
+  + Mastering Regular Expressions  Jeffrey E.F. Friedl
